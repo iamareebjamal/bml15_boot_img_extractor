@@ -169,9 +169,6 @@ echo ""
  echo "" 
 sleep 1
  echo ""
-sleep 1 
- echo "Dear $name" 
- echo "Don't forget to Thanks @ XDA" 
  sleep 2
 echo "iamareebjamal #XDA Developers" 
  sleep 1
